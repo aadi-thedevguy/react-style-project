@@ -12,6 +12,10 @@
   outline: none;
 }
 
+.button.blur {
+  background-color: maroon;
+}
+
 .button:hover,
 .button:active {
   background: #ac0e77;
